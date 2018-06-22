@@ -2,6 +2,7 @@ package br.com.sigec.model;
 
 import java.io.Serializable;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
@@ -18,7 +19,7 @@ public class Cliente implements Serializable {
 	
 	private String nome;
 	
-	@OneToOne
+	@OneToOne(cascade=CascadeType.PERSIST)
 	private Contato contato;
 
 	public long getId() {
