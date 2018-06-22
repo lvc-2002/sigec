@@ -1,4 +1,13 @@
-RemoteSytemsTempFiles/*
+# Arquivos do Workspace do Eclipse
+RemoteSystemsTempFiles/*
+
+# Arquivos de Configuração
+sigec-dao/.classpath
+sigec-dao/.gitignore
+sigec-dao/.project
+sigec-dao/.settings
+.metadata/
+
 # Compiled class file
 *.class
 
