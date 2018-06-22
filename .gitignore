@@ -11,6 +11,9 @@ dao/.metadata/
 # Maven
 dao/sigec-dao/pom.xml
 
+# JPA
+dao/sigec-dao/src/META-INF
+
 # Compiled class file
 *.class
 
