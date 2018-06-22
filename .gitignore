@@ -9,7 +9,7 @@ dao/sigec-dao/.settings
 dao/.metadata/
 
 # Maven
-dao/pom.xml
+dao/sigec-dao/pom.xml
 
 # Compiled class file
 *.class
