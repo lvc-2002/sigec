@@ -2,11 +2,11 @@
 RemoteSystemsTempFiles/*
 
 # Arquivos de Configuração
-sigec-dao/.classpath
-sigec-dao/.gitignore
-sigec-dao/.project
-sigec-dao/.settings
-.metadata/
+dao/sigec-dao/.classpath
+dao/sigec-dao/.gitignore
+dao/sigec-dao/.project
+dao/sigec-dao/.settings
+dao/.metadata/
 
 # Compiled class file
 *.class
