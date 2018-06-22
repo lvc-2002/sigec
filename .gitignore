@@ -7,6 +7,7 @@ dao/sigec-dao/.gitignore
 dao/sigec-dao/.project
 dao/sigec-dao/.settings
 dao/.metadata/
+dao/.recommenders
 
 # Maven
 dao/sigec-dao/pom.xml
