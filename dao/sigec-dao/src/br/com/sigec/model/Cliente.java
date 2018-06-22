@@ -19,7 +19,7 @@ public class Cliente implements Serializable {
 	
 	private String nome;
 	
-	@OneToOne(cascade=CascadeType.PERSIST)
+	@OneToOne(cascade=CascadeType.ALL)
 	private Contato contato;
 
 	public long getId() {
